@@ -1,4 +1,11 @@
+# Larissa Carvalho
+
 ### Hey, Everyone 👋
+
+<p align="left">
+  Sou apaixonada por resolver problemas através de códigos. <br />
+  Sou uma Front-End em desenvolvimento :computer:
+</p> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -8,6 +15,7 @@
   🤔   Explorando novas tecnologias e desenvolvendo soluções.<br />
   🎓   Estudando Ciência da Computação - UESC. <br />
   💼   Em busca de um Estágio na área <br />
+  :blush: Posso te ajudar com CSS e HTML <br/>
   🌱   Aprendendo mais sobre ReactJs. 
 </p>
 
