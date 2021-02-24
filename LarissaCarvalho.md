@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  🤔   Explorando novas tecnologias e desenvolvendo soluções.
-  🎓   Estudando Ciência da Computação - UESC.
-  💼   Em busca de um Estágio na área
-  🌱   Aprendendo mais sobre ReactJs.
+  🤔   Explorando novas tecnologias e desenvolvendo soluções.<br />
+  🎓   Estudando Ciência da Computação - UESC. <br />
+  💼   Em busca de um Estágio na área <br />
+  🌱   Aprendendo mais sobre ReactJs. 
 </p>
 
 <p align="left">
