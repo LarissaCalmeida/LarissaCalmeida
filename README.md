@@ -15,18 +15,18 @@
   🤔   Explorando novas tecnologias e desenvolvendo soluções.<br />
   🎓   Estudando Ciência da Computação - UESC. <br />
   💼   Em busca de um Estágio na área <br />
-  :blush: Posso te ajudar com CSS e HTML <br/>
-  🌱   Aprendendo mais sobre ReactJs. 
+  :blush: Posso te ajudar com HTML, CSS e JS <br/>
+  🌱   Aprendendo ReactJs. 
 </p>
 
 ### Minhas Skills:
 
 <p align="left">
-  🦄 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong>
+  🦄 Minhas Stack: <strong>HTML, CSS, JavaScript, Git e um pouco de C</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas de Desenvolvimento: <strong>Visual Studio Code.</strong>
+  💼 Ferramentas de Desenvolvimento: <strong>Visual Studio Code e Git.</strong>
 </p>
 
 <p align="left">
@@ -40,6 +40,6 @@
   <a href="https://api.whatsapp.com/send?phone=5573988684480" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5573988684480"/></a>
 
-  <a href="https://www.instagram.com/lari_carvalho07/?hl=pt-br" alt="Instagram">
+  <a href="https://www.instagram.com/lari.code/?hl=pt-br" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lari_carvalho07/?hl=pt-br"/></a>
 </p>  
